@@ -8,7 +8,7 @@ but most have same plastic and same PCB with same IC controller...
 I have Thermaltake  BlackX 5G
 P/N ST0019
 single drive.
-i had the dual sata drive bay6 version, but returned because,
+i had the dual sata drive bay version, but returned because,
 in those days i only had 3.5", there were No ssd,
 and large 2.5" were rare.
 problem is that 2TB 3.5" drives Eat 12v 5A at Spin-Up / Start-Up.
