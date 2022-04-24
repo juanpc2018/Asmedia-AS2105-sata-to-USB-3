@@ -96,3 +96,10 @@ if you place the PCIe card in a Limited slot, also.
 To be honset purchasing a Large Mechanical Drive is risky.
 too delicated.
 i hope someday 8TB SSD or M.2 QLC becomes cheaper, price difference is too much.
+
+-----
+Optional:
+Unofficial FW Reader Dumper
+MP Tools Reads but do Not save Firmwate to hdd from IC.
+
+https://github.com/smx-smx/ASMTool
