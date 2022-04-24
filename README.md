@@ -100,6 +100,6 @@ i hope someday 8TB SSD or M.2 QLC becomes cheaper, price difference is too much.
 -----
 Optional:
 Unofficial FW Reader Dumper
-MP Tools Reads but do Not save Firmwate to hdd from IC.
+MP Tools Reads but do Not extract Firmwate stored in the IC.
 
 https://github.com/smx-smx/ASMTool
