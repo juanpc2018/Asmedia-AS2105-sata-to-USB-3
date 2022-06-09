@@ -39,6 +39,8 @@ https://www.usbdev.ru/?wpfb_dl=9235
 also you need the Asmedia MP Tool v3.6.3.0
 https://www.usbdev.ru/files/asmedia/asm105mptool/
 
+Click ‘Unlock MP Tool‘ button and type password ‘asmedia‘.
+ 
 but i used other, 
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-105x-115x-215x-(ASMT-xxxx)-Sata-USB-3.x-controllers/Utilitaires-(Utilities)/lang,en-gb/
 
