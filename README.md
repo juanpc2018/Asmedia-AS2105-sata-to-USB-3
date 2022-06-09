@@ -68,9 +68,11 @@ No configuration Flags.
 
 Worked "by miracle".
 
-IDLE Time NONE if you are going to use Only SSD.
-if you are gonna use Mechanical HDD, you need to add a small Delay, 
-equal to spin-up time of the drive.
+IDLE Time NONE if you are going to use Only SSD, or a Time critical application.
+if you are gonna use Mechanical HDD, you need to add IDLE Time to spin-down the drive.
+IF too soon, 5 minutes for example, HDD will wear too fast, probably controller card will burn.
+IF None, the HDD will wear of spinning al the time, bearings.
+1 hour IDLE seems a good safe balance.
 
 Config Flags:
 Everything exept: Custom Code "The 1st setting", and 2TB.
