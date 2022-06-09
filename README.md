@@ -36,13 +36,12 @@ i used:
 Firmware ASMT-2105 [130423_11_AC_04.bin] ; 130423_11_AC_04.rar
 https://www.usbdev.ru/?wpfb_dl=9235
 
-also you need the Asmedia MP Tool v3.6.3.0
+also you need the Asmedia MP Tool
 https://www.usbdev.ru/files/asmedia/asm105mptool/
-
-Click ‘Unlock MP Tool‘ button and type password ‘asmedia‘.
- 
-but i used other, 
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-105x-115x-215x-(ASMT-xxxx)-Sata-USB-3.x-controllers/Utilitaires-(Utilities)/lang,en-gb/
+Click ‘Unlock MP Tool‘ button and type password ‘asmedia‘ IF needed.
+Latest is v3.6.3.0  
+but i used older because can configure Flags, 
 
 21.20.1 has a Unknown Password "Does Not allow to Burn the New Firmware"
 but has a nice Firmware Stand Alone FW Version Reasder.
