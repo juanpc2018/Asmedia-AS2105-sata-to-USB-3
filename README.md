@@ -61,12 +61,14 @@ Then Open the MP Tool software,
 Manually Write the Brand, Model, Serial Number "must be 12 numbers" 
 i have 2 External Enclosures, my new serials are 000000000001 and 000000000002
 but does Not matter, factory serials were: 0000000000000000000000000
-No Brasnd, No Model.
+No Brand, No Model.
 No configuration Flags.
 
 Worked "by miracle".
 
-IDLE Time NONE.
+IDLE Time NONE if you are going to use Only SSD.
+if you are gonna use Mechanical HDD, you need to add a small Delay, 
+equal to spin-up time of the drive.
 
 Config Flags:
 Everything exept: Custom Code "The 1st setting", and 2TB.
