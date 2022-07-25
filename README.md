@@ -43,11 +43,10 @@ Click ‘Unlock MP Tool‘ button and type password ‘asmedia‘ IF needed.
 Latest is v3.6.3.0  
 but i used older because can configure Flags, 
 
-21.20.1 has a Unknown Password "Does Not allow to Burn the New Firmware"
-but has a nice Firmware Stand Alone FW Version Reasder.
+v21.20.1 has a nice Stand Alone FW Version Reader.
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-105x-115x-215x-(ASMT-xxxx)-Sata-USB-3.x-controllers/Utilitaires-(Utilities)/Asmedia-ASM-21xx-MPTools-Version-2.1.20.1/lang,en-gb/
 
-21.21.5
+v21.21.5
 works No password, but does Not have the stand alone FW Reader tool.
 https://www.station-drivers.com/index.php/en/driverss/Drivers/Asmedia/ASM-105x-115x-215x-(ASMT-xxxx)-Sata-USB-3.x-controllers/Utilitaires-(Utilities)/Asmedia-ASM-21xx-MPTools-Version-2.1.21.5/lang,en-gb/
 
